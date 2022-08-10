@@ -79,4 +79,4 @@ for i in range(len(operations)):
         result.append(obj.is_empty())
 
 print(result)
-Footer
+
